@@ -2,13 +2,13 @@
  <h1 align="center"> <img src="https://github.com/beto1810/beto1810/blob/b8786d64fd7a54b9ca16c557220cf34872cb9b99/%23Hello%20World%20(3).gif" alt="Image" width="1200" height="400"></h1>
 
 <h1 align="center">Hi 👋, I'm Quang Tran</h1>
-<h3 align="center">A Fresher - Entry Level - Starter in Data Analyst</h3>
+<h3 align="center">A Intern - Starter in Data Analyst</h3>
 
-- 🌱 I’m currently learning **SQL, Python, Power BI**
+- 🌱 I’m currently learning **SQL, Python, Power BI, R**
 
 - 👨‍💻 All of my projects are available at my repository
 
-- 💬 Ask me about **SQL, Python, Power BI**
+- 💬 Ask me about **SQL, Python, Power BI, R**
 
 - 📫 How to reach me **quangbs1808@gmail.com**
 
