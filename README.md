@@ -18,8 +18,7 @@
 <p align="left">
 <a href="https://www.facebook.com/quang.tranquoc.5667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quang tran" height="30" width="40" /></a>
 <a href="https://www.instagram.com/quang.tranquoc.1080/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quang.tran.quoc height"="30" width="40" /></a>
- <a href="www.linkedin.com/in/quangquoctran/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" title="Connect with me on LinkedIn"/>
+ <a href="https://www.linkedin.com/in/quangquoctran/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" title="Connect with me on LinkedIn"/>
     </a>
 </p>
 
