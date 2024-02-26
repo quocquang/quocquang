@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **quangbs1808@gmail.com**
 
-- ⚡ Fun fact **Catholic sheep loves Buddhism**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
