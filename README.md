@@ -1,5 +1,5 @@
 
- <h1 align="center"> <img src="https://github.com/beto1810/beto1810/blob/b8786d64fd7a54b9ca16c557220cf34872cb9b99/%23Hello%20World%20(3).gif" alt="Image" width="1200" height="400"></h1>
+ <h1 align="center"> <img src="https://pin.it/1r2NSxFuH" alt="Image" width="1200" height="400"></h1>
 
 <h1 align="center">Hi 👋, I'm Quang Tran</h1>
 <h3 align="center">A Intern - Starter in Data Analyst</h3>
