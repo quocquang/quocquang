@@ -1,5 +1,5 @@
 
- <h1 align="center"> <img src="https://pin.it/1r2NSxFuH" alt="Image" width="1200" height="400"></h1>
+ 
 
 <h1 align="center">Hi 👋, I'm Quang Tran</h1>
 <h3 align="center">A Intern - Starter in Data Analyst</h3>
