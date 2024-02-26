@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Quang Tran</h1>
 <h3 align="center">A Intern - Starter in Data Analyst</h3>
+<h4 align="center">My name is Tran Quoc Quang, currently a student majoring in Management Information Systems at Hutech University. I am seeking opportunities in data analysis. I have strong skills in using programming languages such as Python, R, SQL to perform data analysis tasks. Additionally, I possess the ability to visualize data to help others understand the analyses and their outcomes better. Through my work, I aspire to contribute to making intelligent and effective decisions for organizations.</h4>
 
 - 🌱 I’m currently learning **SQL, Python, Power BI, R**
 
