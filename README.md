@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **SQL, Python, Power BI, R, Excel**
 
-- 📫 How to reach me **quangbs1808@gmail.com**
+- 📫 How to reach me **quangbs1080@gmail.com**
 
   
 
